@@ -26,10 +26,10 @@ module.exports = {
         }
       },
       {
-       test: /\.html$/, loader: 'file?name=[name].[ext]'
+       test:  /\.html/, loader: 'file?name=[name].[ext]'
       },
       {
-        test: /\.css/, loader: 'file?name=[name].[ext]'
+        test:  /\.css/, loader: 'file?name=[name].[ext]'
       }
     ]
   }
