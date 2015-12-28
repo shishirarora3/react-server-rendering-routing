@@ -7,5 +7,6 @@
 <li>npm init
 <li>npm install
 <li>npm start
+<li> open http://localhost:4000/ in browser
 </ol>
 
