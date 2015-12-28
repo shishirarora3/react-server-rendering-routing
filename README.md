@@ -1,10 +1,11 @@
-# github-notetaker-egghead
 
-[Build Your First React App](https://egghead.io/series/build-your-first-react-js-application) is an egghead lesson series.
+<h3>App displaying react server side rendering and routing</h3>
 
-### Instructions
+<h4>Steps to install</h4>
 
-```bash
-npm install
-webpack -w
-```
+<ol>
+<li>npm init
+<li>npm install
+<li>npm start
+</ol>
+
