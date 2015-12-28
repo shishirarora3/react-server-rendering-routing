@@ -1,0 +1,12 @@
+.list-group-item{
+    border:none;
+}
+.list-group-item:hover{
+    cursor: pointer;
+}
+.list-group-item:before{
+    content:'-';
+}
+.list-group-item.selected>span:after{
+    content:' - SELECTED';
+}
